@@ -145,7 +145,6 @@ public class AddressBook {
     private static final int PERSON_DATA_INDEX_PHONE = 1;
     private static final int PERSON_DATA_INDEX_EMAIL = 2;
 
-    private enum PersonProperty {NAME, PHONE, EMAIL};
     /**
      * The number of data elements for a single person.
      */
